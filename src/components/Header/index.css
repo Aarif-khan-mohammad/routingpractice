@@ -1,0 +1,31 @@
+
+.head{
+    display: flex;
+    background-color:transparent;
+    padding: 1rem;
+    
+}
+
+.logo{
+    height: 5rem;
+}
+
+.nav{
+    display: flex;
+    margin-left: auto;
+    gap: 3rem;
+    list-style: none;
+}
+
+.nav-item{
+    list-style: none;
+    color: skyblue;
+    font-size: 1.5rem;
+    font-weight: bold;
+    margin-right: 3rem;
+}
+
+.ho{
+    color: rgb(15, 59, 76);
+    text-decoration: none;
+}
