@@ -1,0 +1,42 @@
+
+.blog-item{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    align-items: center;
+    gap: 8rem;
+    
+}
+
+.auth-container{
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+}
+
+.blog-pic{
+    height:12rem;
+    width: 50%;
+    object-fit: cover;
+}
+
+.left-container{
+    width: 50%;
+}
+
+.avatar-pic{
+    height: 1.5rem;
+    width: 1.5rem;
+}
+
+.topic , .author{
+    color: rgba(127, 99, 99, 0.649) !important ;
+}
+
+.linking{
+    text-decoration: none;
+}
+
+.title{
+    color: black;
+}

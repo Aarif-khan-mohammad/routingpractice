@@ -1,0 +1,47 @@
+.mini-blog{
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    background-color: antiquewhite;
+    align-items: center;
+    gap: 1rem;
+    padding: 5rem;
+}
+
+.mini-main{
+    background-color: antiquewhite;
+    background-size: cover;
+}
+
+.blogname{
+    font-size: 3rem;
+    text-align: center;
+    font-family: "Roboto";
+    text-decoration: underline;
+}
+
+.auth-blog{
+
+    display: flex;
+    align-items: center;
+    gap: 2rem;
+    align-self: flex-start;
+    margin-left: 22rem;
+}
+
+.author-pic{
+    height: 2.5rem;
+}
+
+
+
+.main-pic{
+    height: 60%;
+    width: 60%;
+}
+
+.para{
+    width: 60%;
+    font-size: 1.3rem;
+    font-family: "roboto";
+}

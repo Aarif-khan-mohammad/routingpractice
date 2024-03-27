@@ -25,7 +25,7 @@ h1{
 
 .main-container{
   background-image: linear-gradient(to left top, #9cccf0, #9cc3f1, #a1b9ef, #aaaeea, #b5a2e2, #b79cde, #b995d9, #bc8ed4, #b58cd6, #ad8ad9, #a488db, #9a86de);
-  height: 100vh;
+  height: 100vh auto;
   width: 100%;
   background-size: cover;
   display: flex;
@@ -33,6 +33,7 @@ h1{
   padding: 0;
   flex-direction: column;
   gap: 10rem;
+  
   
 }
 

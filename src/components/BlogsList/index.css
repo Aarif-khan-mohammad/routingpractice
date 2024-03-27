@@ -1,0 +1,13 @@
+.blogs-list-container{
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+    padding: 2rem;
+}
+
+.blogs{
+    text-align: center;
+    font-family: "Roboto";
+    text-decoration: underline;
+    background-color: transparent;
+}
